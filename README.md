@@ -1,3 +1,4 @@
+<div style="padding-top:94.792%;position:relative;"><iframe src="https://gifer.com/embed/2YAD" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">via GIFER</a></p>
 ## Olá! Eu sou o Guilherme Freitas 👋
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-freitas-do-nascimento-53b804266/)
 [![Blog](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCo9w55dmfRSSWWvKzM_1CMA)
