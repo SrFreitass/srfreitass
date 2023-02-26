@@ -13,5 +13,3 @@
 
 #### Apaixonado por tecnologia.
 
-
-[![Blog](https://i.gifer.com/2YAD.gif)]()
