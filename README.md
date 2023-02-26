@@ -12,4 +12,4 @@
 [![Blog](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
 
 #### Apaixonado por tecnologia.
-<iframe src="https://gifer.com/embed/2YAD" width=480 height=455.000 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>
+
