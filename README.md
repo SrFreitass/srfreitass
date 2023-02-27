@@ -1,4 +1,4 @@
-# Hi there, I'm Guilherme Freitas do Nascimento 👋
+# Hi there, I'm Guilherme Freitas do Nascimento 👋 
 
 I'm a 14-year-old front-end student who is passionate about technology and loves to learn new things. Currently, I'm studying HTML, CSS, and JavaScript to improve my skills as a front-end developer. 💻
 
@@ -28,5 +28,6 @@ If you'd like to get in touch with me, you can find me on the following platform
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-freitas-do-nascimento-53b804266/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://wa.me/5567996608368)
 
-![giphy](https://user-images.githubusercontent.com/121752740/221462169-78497fd5-7f09-4720-b72e-39a151f3aee3.gif)
+![87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3](https://user-images.githubusercontent.com/121752740/221466113-b8735921-eb72-4b39-8997-3e31bf1fa28f.gif)
+
 
