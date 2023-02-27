@@ -4,7 +4,7 @@ I'm a 14-year-old front-end student who is passionate about technology and loves
 
 ## Skills
 
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+![Build Status](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Build Status](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Build Status](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Build Status](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
