@@ -20,4 +20,4 @@ Here are some projects that I have created recently:
 
 If you'd like to get in touch with me, you can find me on the following platform:
 
-- [](https://wa.me/+5567996608368)
+- [https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white](https://wa.me/+5567996608368)
