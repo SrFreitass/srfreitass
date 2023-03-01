@@ -14,7 +14,7 @@ I'm a 14-year-old front-end student who is passionate about technology and loves
 Here are some projects that I have created recently:
 
 - [Project 1](https://github.com/SrFreitass/codelandia-mine)
-- [Project 2](https://github.com/SrFreitass/codelandia_foodjp)
+- [Project 2](https://github.com/SrFreitass/codelandia-portfolio-fictice)
 
 ## Operating Systems 💻
 
