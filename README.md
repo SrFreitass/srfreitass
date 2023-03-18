@@ -15,7 +15,7 @@ Here are some projects that I have created recently:
 
 - [Project 1](https://github.com/SrFreitass/codelandia-mine)
 - [Project 2](https://github.com/SrFreitass/codelandia-portfolio-fictice)
-- [Project 3](https://github.com/SrFreitass/codelandia_foodjp](https://github.com/SrFreitass/numbermystery)
+- [Project 3](https://github.com/SrFreitass/numbermystery)
 
 ## Operating Systems 💻
 
