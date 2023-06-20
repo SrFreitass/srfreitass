@@ -2,7 +2,7 @@
 
 ##  👨🏽‍💻 About Me:
 
-I'm a 15-year-old front-end student who is passionate about technology and loves to learn new things. Currently, I'm studying HTML, CSS, and JavaScript to improve my skills as a front-end developer. 💻
+I'm a 15-year-old front-end student who is passionate about technology and loves to learn new things. Currently, I'm studying JavaScript, React Native and ReactJS to improve my skills as a front-end developer. 💻
 
 ## 💻 Tech Stack:
 
