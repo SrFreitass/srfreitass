@@ -6,12 +6,12 @@ I'm a 15-year-old front-end student who is passionate about technology and loves
 
 ## 💻 Tech Stack:
 
-![HTML:5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML:5](https://img.shields.io/badge/HTML5-323330?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-323330?style=for-the-badge&logo=css3&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![ReactJS](https://img.shields.io/badge/Reactjs-323330?style=for-the-badge&logo=react&logoColor=#61DAFB)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-323330?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-323330.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 # 📊 GitHub Stats:
 
