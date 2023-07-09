@@ -6,12 +6,12 @@ I'm a 15-year-old front-end student who is passionate about technology and loves
 
 ## 💻 Tech Stack:
 
-![HTML:5](https://img.shields.io/badge/HTML5-323330?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-323330?style=for-the-badge&logo=css3&logoColor=white)
+![HTML:5](https://img.shields.io/badge/HTML5-323330?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS](https://img.shields.io/badge/CSS3-323330?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![ReactJS](https://img.shields.io/badge/Reactjs-323330?style=for-the-badge&logo=react&logoColor=#61DAFB)
-![Git](https://img.shields.io/badge/GIT-323330?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-323330.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-323330?style=for-the-badge&logo=git&logoColor=F05032)
+![Figma](https://img.shields.io/badge/figma-323330.svg?style=for-the-badge&logo=figma&logoColor=A5CD39)
 
 # 📊 GitHub Stats:
 
@@ -23,6 +23,5 @@ If you'd like to get in touch with me, you can find me on the following platform
 
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://wa.me/5567996608368)
-
 
 
