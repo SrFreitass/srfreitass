@@ -10,6 +10,7 @@ I'm a 15-year-old front-end student who is passionate about technology and loves
 ![CSS](https://img.shields.io/badge/CSS3-323330?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![ReactJS](https://img.shields.io/badge/Reactjs-323330?style=for-the-badge&logo=react&logoColor=#61DAFB)
+![Styled Components](https://img.shields.io/badge/styled--components-323330?style=for-the-badge&logo=styled-components&logoColor=rose)
 ![Git](https://img.shields.io/badge/GIT-323330?style=for-the-badge&logo=git&logoColor=F05032)
 ![Figma](https://img.shields.io/badge/figma-323330.svg?style=for-the-badge&logo=figma&logoColor=A5CD39)
 
