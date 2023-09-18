@@ -13,6 +13,7 @@ Hello! I'm a 15-year-old technology enthusiast. Currently, I'm focused on improv
 ![Styled Components](https://img.shields.io/badge/styled--components-323330?style=for-the-badge&logo=styled-components&logoColor=rose)
 ![Git](https://img.shields.io/badge/GIT-323330?style=for-the-badge&logo=git&logoColor=F05032)
 ![Figma](https://img.shields.io/badge/figma-323330.svg?style=for-the-badge&logo=figma&logoColor=A5CD39)
+![Firebase](https://img.shields.io/badge/firebase-323330.svg?style=for-the-badge&logo=firebase&logoColor=ffa000)
 
 # 📊 GitHub Stats:
 
