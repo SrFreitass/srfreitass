@@ -15,6 +15,10 @@ Hello! I'm a 15-year-old technology enthusiast. Currently, I'm focused on improv
 ![Figma](https://img.shields.io/badge/figma-323330.svg?style=for-the-badge&logo=figma&logoColor=A5CD39)
 ![Firebase](https://img.shields.io/badge/firebase-323330.svg?style=for-the-badge&logo=firebase&logoColor=ffa000)
 
+## 📖 Learning:
+
+![CSharp](https://img.shields.io/badge/CS-323330.svg?style=for-the-badge&logo=csharp&logoColor=ADB0F3)
+
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Srfreitass&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
