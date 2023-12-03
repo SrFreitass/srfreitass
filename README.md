@@ -2,7 +2,7 @@
 
 ##  👨🏽‍💻 About Me:
 
-Hello! I'm a 15-year-old technology enthusiast. Currently, I'm focused on improving my skills as a front-end developer, with a strong emphasis on JavaScript, React Native, and ReactJS. My goal is to become a full-stack developer and eventually pursue a career as a software engineer. I'm always eager to learn and stay up-to-date with the latest advancements in the tech industry. 💻
+Hello! I'm a 15-year-old technology enthusiast. Currently, I'm focused on improving my skills as a full-stack developer, with a strong emphasis on JavaScript, PHP, Laravel, and ReactJS. My goal is to become a full-stack developer and eventually pursue a career as a software engineer. I'm always eager to learn and stay up-to-date with the latest advancements in the tech industry. 💻
 
 ## 💻 Tech Stack:
 
