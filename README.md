@@ -20,10 +20,6 @@ Hello! I'm a 15-year-old technology enthusiast. Currently, I'm focused on improv
 ![php](https://img.shields.io/badge/php-323330.svg?style=for-the-badge&logo=php&logoColor=ADB0F3)
 ![postgres](https://img.shields.io/badge/PostgresSQL-323330.svg?style=for-the-badge&logo=postgresql&logoColor=1572B6)
 
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Srfreitass&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 ## Contact 📱
 
 If you'd like to get in touch with me, you can find me on the following platform:
