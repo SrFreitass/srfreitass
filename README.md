@@ -5,7 +5,7 @@
 🌱 - 1 Year studying programming
 <br/>
 <br/>
-💻 - ReactJS, JavaScript, TypeScript, NodeJS, Java & Spring Boot.
+💻 - ReactJS, JavaScript, TypeScript, NodeJS, GO.
 <br/>
 <br/>
 💼 - Freelancer
