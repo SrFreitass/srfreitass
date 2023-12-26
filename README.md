@@ -11,7 +11,7 @@
 💼 - Freelancer
 <br/>
 <br/>
-📦 - My repositories is privates.
+📦 - My repositories are privates.
 
 
 
