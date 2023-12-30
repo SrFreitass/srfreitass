@@ -5,7 +5,7 @@
 🌱 - 1 Year studying programming
 <br/>
 <br/>
-💻 - ReactJS, JavaScript, TypeScript, NodeJS, GO.
+💻 - ReactJS, JavaScript, TypeScript, NodeJS, NestJS.
 <br/>
 <br/>
 💼 - Freelancer
