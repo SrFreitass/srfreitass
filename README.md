@@ -22,6 +22,5 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srfreitass&hide_progress=true&theme=dark)
 
-<img src="https://i.redd.it/afagef4lcgda1.gif"/>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31hvv4q3cmegjwaivn7v5sufyxba&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
