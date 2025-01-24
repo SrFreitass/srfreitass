@@ -3,7 +3,7 @@
 
 ## ⚡ - freitas in ~/github/srfreitass on main λ
 
-## 🎯 - <a href="https://freitasdev.com.br">Portfólio (Desenvolvendo)</a>
+## 🎯 - <a href="https://freitasdev.com.br/">Portfólio (Desenvolvendo)</a>
 
 ## 🚀 Stack
 
