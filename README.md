@@ -6,7 +6,7 @@
 React, NextJS, NodeJS, TypeScript, JavaScript, PHP, Python, Fastify, Docker, GNU/Linux
 
 #### 💼 Experiência profissional
-- Estagiário em desenvolvimento de software na [Baikal Security](https://baikalsec.com/)
+- Desenvolvedor Front-End na [Squadra Digital](https://www.squadra.com.br/)
 
 ### 📚 Educação
 - Cursando Técnico em Desenvolvimento de Sistemas no [Senac Hub Academy](https://ms.senac.br)
