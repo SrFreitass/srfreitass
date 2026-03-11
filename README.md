@@ -9,7 +9,7 @@ React, NextJS, NodeJS, TypeScript, JavaScript, PHP, Python, Fastify, Docker, GNU
 - Desenvolvedor Front-End na [Squadra Digital](https://www.squadra.com.br/)
 
 ### 📚 Educação
-- Cursando Técnico em Desenvolvimento de Sistemas no [Senac Hub Academy](https://ms.senac.br)
+- Técnico em Desenvolvimento de Sistemas - [Senac Hub Academy](https://ms.senac.br)
 
 ### 📲 Entrar em contato comigo
 - [Instagram](https://instagram.com/guilherme_freitas067)
