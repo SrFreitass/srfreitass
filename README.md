@@ -14,4 +14,3 @@ React, NextJS, NodeJS, TypeScript, JavaScript, PHP, Python, Fastify, Docker, GNU
 ### 📲 Entrar em contato comigo
 - [Instagram](https://instagram.com/guilherme_freitas067)
 - [LinkedIn](https://www.linkedin.com/in/guilherme-freitas-do-nascimento-53b804266/)
-- [WhatsApp](https://wa.me/5567996608368)
