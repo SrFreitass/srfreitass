@@ -12,5 +12,4 @@ React, NextJS, NodeJS, TypeScript, JavaScript, PHP, Python, Fastify, Docker, GNU
 - Técnico em Desenvolvimento de Sistemas - [Senac Hub Academy](https://ms.senac.br)
 
 ### 📲 Entrar em contato comigo
-- [Instagram](https://instagram.com/guilherme_freitas067)
 - [LinkedIn](https://www.linkedin.com/in/guilherme-freitas-do-nascimento-53b804266/)
