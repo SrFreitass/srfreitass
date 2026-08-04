@@ -9,6 +9,7 @@ React, NextJS, NodeJS, TypeScript, JavaScript, PHP, Python, Fastify, Docker, GNU
 - Desenvolvedor Front-End na [Squadra Digital](https://www.squadra.com.br/)
 
 ### 📚 Educação
+- Cursando Ciência da Computação - [Universidade Católica Dom Bosco](https://ucdb.br)
 - Técnico em Desenvolvimento de Sistemas - [Senac Hub Academy](https://ms.senac.br)
 
 ### 📲 Entrar em contato comigo
